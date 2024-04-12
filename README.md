@@ -1,7 +1,7 @@
 # Closing the Service: Contrasting activity-based and time-based systematic closure policies
-## Code companion for research paper
+## Antonio Castellanos, Andrew Daw, Amy Ward, Galit B. Yom-Tov
 
-This repository contains the source code and supplementary materials for the research paper titled "Closing the Service: Contrasting activity-based and time-based systematic closure policies," authored by Antonio Castellanos, Andrew Daw, Amy Ward, and Galit B. Yom-Tov.
+This repository contains the source code and supplementary materials for the research paper titled "Closing the Service: Contrasting activity-based and time-based systematic closure policies,".
 
 ### Authors and Affiliations
 - **Antonio Castellanos**
