@@ -28,8 +28,8 @@ Moreover, a large difference is observed between static and dynamic threshold po
 
 ### Repository Contents
 - `Figure1_Hawkes_Intensity_Maker.m`: UHP simulation for Figure 1, and figure maker. 
-- `Runner_Static_Policies_and_Figure2_Maker.m`: Static policies runner and Figure 2 maker. Requires tauFuncSim.m, uhpAbsorbCheckRep.m, uhpAbsorbCheckSim.m, randBorel.m, randPF3.m.
-- `Runner_Dynamic_Policies_and_Figure3_Maker.m`: Dynamic policies runner and Figure 3 maker. Requires mHawkes1Rep_Online.m, mHawkes1Sim_Online.m.
+- `Runner_Static_Policies_and_Figure2_Maker.m`: Static policies runner and Figure 2 maker. Requires `tauFuncSim.m`, `uhpAbsorbCheckRep.m`, `uhpAbsorbCheckSim.m`, `randBorel.m`, `randPF3.m`.
+- `Runner_Dynamic_Policies_and_Figure3_Maker.m`: Dynamic policies runner and Figure 3 maker. Requires `mHawkes1Rep_Online.m` and `mHawkes1Sim_Online.m`.
 
 ### Usage
 Instructions on how to setup and run the code: run the 3 previous code scripts, they simulate, create figures and save them. 
